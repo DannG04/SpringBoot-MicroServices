@@ -170,7 +170,7 @@ El **Course Service** se comunica con el **Student Service** a través de **Open
 ## ⚠️ Notas Importantes / Important Notes
 
 - Este es un **proyecto de prueba** con fines educativos / This is a **test project** for educational purposes
-- Las credenciales de base de datos están hardcodeadas (no usar en producción) / Database credentials are hardcoded (do not use in production)
+- Las credenciales de base de datos están en el código (no usar en producción) / Database credentials are hardcoded (do not use in production)
 - No incluye seguridad avanzada ni autenticación / Does not include advanced security or authentication
 - No está optimizado para producción / Not optimized for production
 
